@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Abhay 👋
+I'm an aspiring IT professional from Japan 🇯🇵, passionate about coding, digital innovation, and building real-world projects.
 
-<!--
-**dragneelnatsu1120-commits/dragneelnatsu1120-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Current Focus:** Digital Business & Innovation (DBI), Tokyo International University
+- 🌸 **Languages:** Japanese (JLPT N3), English
+- 💻 **Skills:** Python, HTML/CSS, Git & GitHub, Project Management
+- 🎮 **Hobbies:** Gaming, Learning Japanese, Drawing
 
-Here are some ideas to get you started:
+## 🚀 GitHub Stats
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragneelnatsu1120-commits&show_icons=true&hide_border=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- **Project A:** [Link coming soon] – Your first portfolio-ready project
+- More projects coming as I level up my skills 💪
+
+## 🌐 Let's Connect
+- LinkedIn: [Your LinkedIn here]
+- Portfolio: [Your portfolio link here]
+
+> “Learning never exhausts the mind.” – Leonardo da Vinci
