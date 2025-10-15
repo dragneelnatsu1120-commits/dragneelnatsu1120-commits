@@ -10,7 +10,7 @@ I'm an aspiring IT professional from Japan 🇯🇵, passionate about coding, di
 ![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dragneelnatsu1120-commits&show_icons=true&hide_border=true&theme=radical)
 
 ## 📂 Projects
-- **Project A:** [Link coming soon] – Your first portfolio-ready project
+- **Project A:** [Japanese Kanji Flashcards](https://github.com/dragneelnatsu1120-commits/projects-a)
 - More projects coming as I level up my skills 💪
 
 ## 🌐 Let's Connect
