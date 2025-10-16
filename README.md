@@ -14,6 +14,7 @@ I'm an aspiring IT professional from Japan 🇯🇵, passionate about coding, di
 
 - **Project B:** [Data Insights with Python](https://github.com/dragneelnatsu1120-commits/project-b) – Sales data analysis & visualization
 
+- **Project C:** [Personal Productivity Dashboard](https://github.com/dragneelnatsu1120-commits/project-c) – Interactive task & habit tracker
 
 ## 🌐 Let's Connect
 - LinkedIn: [Your LinkedIn here]
