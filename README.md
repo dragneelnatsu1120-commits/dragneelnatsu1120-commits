@@ -12,7 +12,8 @@ I'm an aspiring IT professional from Japan 🇯🇵, passionate about coding, di
 ## 📂 Projects
 - **Project A:** [Japanese Kanji Flashcards](https://github.com/dragneelnatsu1120-commits/project-a) – Beginner-friendly Python project
 
-- More projects coming as I level up my skills 💪
+- **Project B:** [Data Insights with Python](https://github.com/dragneelnatsu1120-commits/project-b) – Sales data analysis & visualization
+
 
 ## 🌐 Let's Connect
 - LinkedIn: [Your LinkedIn here]
