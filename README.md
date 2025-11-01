@@ -17,7 +17,6 @@ I'm an aspiring IT professional from Japan 🇯🇵, passionate about coding, di
 - **Project C:** [Personal Productivity Dashboard](https://github.com/dragneelnatsu1120-commits/project-c) – Interactive task & habit tracker
 
 ## 🌐 Let's Connect
-- LinkedIn: [Your LinkedIn here]
-- Portfolio: [Your portfolio link here]
+- 
 
 > “Learning never exhausts the mind.” – Leonardo da Vinci
